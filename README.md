@@ -21,8 +21,7 @@ installiert sein.
 
 ### 1.2 Einrichtung und Deployment
 
-Die ausführbare Datei „chess_swp_2019.jar“ kann aus dem git-Repository des Projekts
-(https://gitlab2.informatik.uni-wuerzburg.de/softwarepraktikum/swp19ss_chess) heruntergeladen
+Die ausführbare Datei „chess_swp_2019.jar“ kann aus dem git-Repository des Projekts heruntergeladen
 werden. Diese kann beliebig auf der Festplatte des Rechners platziert und dann im Explorer per
 Doppelklick auf die Datei ausgeführt werden.
 
